@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Piotrek and I'm a freelancer from Poland. I'm currently looking for a job or internship as a Junior Front-End Developer.</h2>
+<h2 align="left">Hi 👋! My name is Piotrek, I'm a freelancer from Poland. I'm currently looking for a job or internship as a Junior Front-End Developer.</h2>
 
 ###
 
