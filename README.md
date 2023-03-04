@@ -30,8 +30,8 @@
 </div>
 
 
-### 💻 My projects 
-<a href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></a>
+### <h2>💻 My projects </h2>
+<h3 href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></h3>
 <br>
   <h3>📌 Stressless-Movers Landing Page</h3> 
   <p>✅ Finished</p>
