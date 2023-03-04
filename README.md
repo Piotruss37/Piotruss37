@@ -29,10 +29,8 @@
   </a>
 </div>
 ###
-<br>
-<br>
-### 
-💻 My projects 
+
+### 💻 My projects 
 <a href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></a>
 <br>
   <h3>📌 Stressless-Movers Landing Page</h3> 
