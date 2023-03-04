@@ -5,8 +5,9 @@
 <h3 align="left">My skills are mainly HTML, CSS and JavaScript, and I am also learning React and TypeScript.<br>I am currently working as a freelancer. I'm trying  to make sure that every piece of work I do is customised and meets my clients expectations.<br><br>I am always open to new challenges and would be happy to start a job or internship as a Junior Front-End Developer to develop my skills and gain new experience. If you are interested in my portfolio and are interested in collaboration, I encourage you to contact me.</h3>
 
 ###
-<br>
+
 <h2>💻 Tech Stack</h2>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="46" width="64" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" width="64" alt="css3 logo"  />
