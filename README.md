@@ -30,15 +30,16 @@
 </div>
 
 ###
-
-### 💻 My projects (1)
-	
+<br>
+<br>
+### 💻 My projects 
 <a href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></a>
 <br>
-  
   <h3>📌 Stressless-Movers Landing Page</h3> 
-	<p>✅ Finished</p>
-  <p>💻 https://github.com/Piotruss37/stressless-movers <br> 📐 Html/Css/Js</p>
+  <p>✅ Finished</p>
+  <p>💻 https://github.com/Piotruss37/stressless-movers </p>
+  <p> HTML/CSS/JS </p>
+
   
   <br>
   <div align="left">
