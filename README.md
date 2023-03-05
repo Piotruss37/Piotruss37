@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="46" width="64" alt="redux logo"  />
 </div>
 <br>
-<br>
 
 <h2>📧 Contact Me</h2>
 <div align="left">
