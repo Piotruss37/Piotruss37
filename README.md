@@ -24,7 +24,7 @@
 </div>
 
 <h2>📧 Contact Me</h2>
-<br>
+
 <div align="left">
     <ul>     
         <li><strong>E-mail: </strong> <code>piotr@piotrdev.pl</code></li>
