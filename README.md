@@ -26,7 +26,11 @@
 <h2>📧 Contact Me</h2>
 <br>
 <div align="left">
-	<h3>Linkedin</h3>
+	 <ul>
+        
+        <li><strong>E-mail: </strong> <code>piotr@piotrdev.pl</code></li>
+        <li><strong><a href="linkedin"> Linkedin </a>
+    </ul>
  
 </div>
 
