@@ -43,12 +43,6 @@
 
 <br>
 	
-	
-<h3 href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></h3>
-
-  <h3>📌 Stressless-Movers Landing Page</h3> 
-  <p>💻 https://github.com/Piotruss37/stressless-movers </p>
- 
 <div align="left">
 	  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="46" width="64" alt="html5 logo"  />
@@ -56,6 +50,17 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" width="64" alt="javascript logo"  />
   
   </div>
+	
+<br>
+<br>
+	
+	
+<h3 href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></h3>
+
+  <h3>📌 Stressless-Movers Landing Page</h3> 
+  <p>💻 https://github.com/Piotruss37/stressless-movers </p>
+ 
+
 
 
   <br>
