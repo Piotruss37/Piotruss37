@@ -38,9 +38,10 @@
 	
 <h3 href="https://646f53bbf4802508d0feedd0--serene-bombolone-627e50.netlify.app/" target="_blank"><img src="https://646f53bbf4802508d0feedd0--serene-bombolone-627e50.netlify.app/readmeimg.png" alt="readme img" width="450px" height="250px" align="right" ></h3>
 
-  <h3>📌 Catino React App</h3> 
-  <p>💻 https://646f53bbf4802508d0feedd0--serene-bombolone-627e50.netlify.app/</p>
-	
+<h3>📌 Catino React App</h3> 
+<p>💻 https://646f53bbf4802508d0feedd0--serene-bombolone-627e50.netlify.app/</p>
+
+<br>
 	
 	
 <h3 href="https://stressless-movers.com/" target="_blank"><img src="https://stressless-movers.com/dist/img/readmeimg.png" alt="moving" width="450px" height="250px" align="right" ></h3>
