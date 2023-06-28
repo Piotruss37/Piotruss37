@@ -29,7 +29,7 @@
 <div align="left">
     <ul>     
         <li><strong>E-mail: </strong> <code>piotr@piotrdev.pl</code></li>
-        <li><strong><a href="linkedin"> Linkedin </a>
+        <li><strong><a href="https://www.linkedin.com/in/piotr-cap-699455280/"> Linkedin </a>
     </ul>
  
 </div>
