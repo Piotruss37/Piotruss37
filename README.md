@@ -43,7 +43,14 @@
 <p>💻 https://github.com/Piotruss37/e-commerce</p>
 
 <br>
+<div align="left">
+	  
+  <img height="46" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
+   <img height="46" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  
+  
+  </div>
 
 	
 <h3 href="https://catinonet.netlify.app/" target="_blank"><img src="https://catinonet.netlify.app//readmeimg.png" alt="readme img" width="450px" height="250px" align="right" ></h3>
