@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My skills are mainly HTML, CSS, JavaScript, TypeScript and I am also expanding my React knowledge.<br>I am currently working as a freelancer. I'm trying  to make sure that every piece of work I do is customised and meets my clients expectations.<br><br>I am always open to new challenges and would be happy to start a job or internship as a Junior Front-End Developer to develop my skills and gain new experience. If you are interested in collaboration, I encourage you to contact me.</h3>
+<h3 align="left">My skills are mainly HTML, CSS, JavaScript, TypeScript and I am also expanding my React and Next.js knowledge.<br>I am currently working as a freelancer. I'm trying  to make sure that every piece of work I do is customised and meets my clients expectations.<br><br>I am always open to new challenges and would be happy to start a job or internship as a Junior Front-End Developer to develop my skills and gain new experience. If you are interested in collaboration, I encourage you to contact me.</h3>
 
 ###
 
