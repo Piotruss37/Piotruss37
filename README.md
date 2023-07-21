@@ -36,6 +36,15 @@
 
 
 <h2>💻 My projects </h2>
+
+<h3 href="https://catinonet.netlify.app/" target="_blank"><img src="https://catinonet.netlify.app//readmeimg.png" alt="readme img" width="450px" height="250px" align="right" ></h3>
+
+<h3>📌 E-commerce soy candles shop</h3> 
+<p>💻 https://github.com/Piotruss37/catino</p>
+
+
+
+
 	
 <h3 href="https://catinonet.netlify.app/" target="_blank"><img src="https://catinonet.netlify.app//readmeimg.png" alt="readme img" width="450px" height="250px" align="right" ></h3>
 
