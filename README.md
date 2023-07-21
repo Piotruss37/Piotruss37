@@ -40,7 +40,7 @@
 <h3 href="https://catinonet.netlify.app/" target="_blank"><img src="https://stressless-movers.com/dist/img/readme.png" alt="readme img" width="450px" height="250px" align="right" ></h3>
 
 <h3>📌 E-commerce soy candles shop</h3> 
-<p>💻 https://github.com/Piotruss37/catino</p>
+<p>💻 https://github.com/Piotruss37/e-commerce</p>
 
 <br>
 
